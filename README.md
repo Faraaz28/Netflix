@@ -1,1 +1,1 @@
-Preview: https://netflix-clone-site.netlify.app/
+Preview: https://netflix-site-clone.netlify.app/
